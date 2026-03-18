@@ -3,7 +3,7 @@ import type { Config } from "@docusaurus/types"
 import type * as Preset from "@docusaurus/preset-classic"
 
 const config: Config = {
-  title: "DAYKEEPER",
+  title: "Daykeeper",
   favicon: "img/DaykeeperLogo.svg",
 
   url: "https://docs.daykeeper.net",
@@ -76,7 +76,7 @@ const config: Config = {
       style: "dark",
       links: [
         {
-          title: "DayKeeper",
+          title: "Daykeeper",
           items: [
             {
               label: "About",
@@ -139,7 +139,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} DayKeeper`,
+      copyright: `Copyright © ${new Date().getFullYear()} Daykeeper`,
     },
     prism: {
       theme: prismThemes.github,
