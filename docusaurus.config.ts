@@ -38,9 +38,9 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/DaykeeperLogo.svg",
     navbar: {
-      title: "DayKeeper",
+      title: "Daykeeper",
       logo: {
-        alt: "DayKeeper Logo",
+        alt: "Daykeeper Logo",
         src: "img/DaykeeperLogo.svg",
       },
       items: [
